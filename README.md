@@ -1,6 +1,7 @@
 ### Hi there 👋
-
-https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif
+<div id="header" aligh="center">
+  <img src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" width="100"/>
+ </div>
 
 <!--
 **kroniv/kroniv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

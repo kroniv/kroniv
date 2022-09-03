@@ -4,7 +4,7 @@
 </div>
 <div>
   <h1>My codewars</h1>
-  <img src="https://www.codewars.com/users/Kroniv/badges/large">
+  <a href="https://www.codewars.com/users/Kroniv"> <img src="https://www.codewars.com/users/Kroniv/badges/large"> </a>
 </div>
 <!--
 **kroniv/kroniv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
